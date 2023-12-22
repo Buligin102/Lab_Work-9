@@ -1,0 +1,4 @@
+C:\Users\Vlad\Desktop\ТУСУР\Предметы\2 курс\1 семестр\ООП\Rider\lab_work\x64\Debug\lab_work.exe
+C:\Users\Vlad\Desktop\ТУСУР\Предметы\2 курс\1 семестр\ООП\Лаба 2 9 варинат\lab_work\x64\Debug\lab_work.exe
+C:\Users\Vlad\Desktop\ТУСУР\Предметы\2 курс\1 семестр\ООП\9 варинат Лаба 2-3\lab_work\x64\Debug\lab_work.exe
+C:\Users\Vlad\Desktop\ТУСУР\Предметы\2 курс\1 семестр\ООП\9 варинат Лаба 2-5\lab_work\x64\Debug\lab_work.exe
